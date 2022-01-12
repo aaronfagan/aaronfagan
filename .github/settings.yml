@@ -2,7 +2,7 @@ repository:
   name: 'aaronfagan'
   description: 'Github Profile Readme'
   homepage: 'https://www.aaronfagan.ca/'
-  default_branch: 'master'
+  default_branch: 'main'
   private: false
   has_issues: false
   has_wiki: false
